@@ -1,2 +1,2 @@
-# My_protfolio
+# My_resume
 Created with CodeSandbox
